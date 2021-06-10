@@ -6,7 +6,7 @@
   --primary-bg-color: #e5e5e5;
   --secondary-bg-color: #2f303a;
   --grey-bg-color: #f5f4fa;
-  --transition-duration: 2500ms;
+  --transition-duration: 250ms;
   --transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 body {
